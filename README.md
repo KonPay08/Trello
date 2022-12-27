@@ -1,4 +1,4 @@
-https://github.com/KonPay08/Trello/issues/1
+https://user-images.githubusercontent.com/84298892/209615662-4d54df31-bd84-4430-98e8-4a20dc215ecd.gif
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
